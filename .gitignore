@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/out/
+table3_finetune/runs/
+table3_finetune/out/
+*.log
+*.pbs
+t1_model_cfg.sh
+t1_node_serve.sh
+*.sh
